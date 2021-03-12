@@ -38,10 +38,10 @@ export const homeObjThree = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  buttonLabel: "Get Started",
+  buttonLabel: "Get Inspired",
   description:
     "No more long nights of work! All the time you save with the styling components can be used to do some sport, read books, hook up and get drunk!",
-  headline: "Functionality specialist for Front-End devs",
+  headline: "Get the best out of your working time",
   topLine: "Work smart and be happy",
   primary: true,
   img: require("../../images/img2.svg").default,
